@@ -1,6 +1,7 @@
+[README (2).md](https://github.com/user-attachments/files/32522421/README.2.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=220&section=header&text=Sreehari%20P%20K&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=250&section=header&text=Sreehari%20P%20K&fontSize=50&fontColor=ffffff&animation=twinkling&textBg=false&fontAlignY=32&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+Flutter+Developer;Building+AI-Powered+Solutions;Hackathon+Enthusiast+%F0%9F%8F%86;Full+Stack+%26+Mobile+App+Builder" alt="Typing SVG" />
 
