@@ -1,0 +1,147 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=220&section=header&text=Sreehari%20P%20K&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+Flutter+Developer;Building+AI-Powered+Solutions;Hackathon+Enthusiast+%F0%9F%8F%86;Full+Stack+%26+Mobile+App+Builder" alt="Typing SVG" />
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-DC143C?style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sreehari98989&color=dc143c&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/sreehari98989?label=Followers&style=flat-square&color=dc143c)
+
+</div>
+
+---
+
+## 🧑‍💻 Who I Am
+
+```ts
+const sreehari = {
+  title: "Aspiring Software Engineer",
+  stack: [
+    "Java", "Python", "JavaScript", "C", "C++",
+    "React.js", "Node.js", "Flutter", "Dart", "Spring Boot",
+    "MySQL", "MongoDB"
+  ],
+  launchedProjects: [
+    "AI News Analyzer and Blog Generator",
+    "College Bus Pass Management System",
+    "Student Marks Monitoring System",
+    "College Indoor Navigation",
+    "FirebreakLLM (collaborative)"
+  ],
+  achievements: [
+    "Participant — HackVerse 2.0 (IBM Bob Hackathon), MIT Bengaluru, MAHE",
+    "Top 10 Finalist — VexStorm Hackathon 2026, Sahyadri College",
+    "Participant — Nexathon 2025, Shree Devi Institute of Technology",
+    "Ranked 13th / 1600+ teams — Code4EdTech Hackathon 2025"
+  ],
+  status: "Pursuing B.E. in Computer Science & Engineering @ Canara Engineering College (2023 - 2027)",
+  openTo: ["Software Engineering Roles", "Mobile App Development", "Full-Time Opportunities"],
+} as const;
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 📍 College Indoor Navigation
+
+<div align="left">
+
+[![College-Indoor-Navigation](https://github-readme-stats.vercel.app/api/pin/?username=sreehari98989&repo=College-Indoor-Navigation&theme=nord&title_color=dc143c&border_color=dc143c&icon_color=dc143c)](https://github.com/sreehari98989/College-Indoor-Navigation)
+
+An indoor navigation app built to help students and visitors find their way around college buildings with real-time, map-free routing.
+
+| Layer | Technology |
+|---|---|
+| Mobile/Frontend | Flutter, Dart |
+| Focus | Indoor Wayfinding / Navigation |
+
+🔗 **Live:** Not deployed &nbsp;•&nbsp; 💻 **Code:** [Repository](https://github.com/sreehari98989/College-Indoor-Navigation)
+
+</div>
+
+### 🛡️ FirebreakLLM
+
+<div align="left">
+
+[![FirebreakLLM](https://github-readme-stats.vercel.app/api/pin/?username=sreehari98989&repo=FirebreakLLM&theme=nord&title_color=dc143c&border_color=dc143c&icon_color=dc143c)](https://github.com/sreehari98989/FirebreakLLM)
+
+An advanced asynchronous Python reverse-proxy implementing semantic guardrails, prompt-injection mitigation, and data exfiltration filters for Enterprise LLMs.
+
+| Layer | Technology |
+|---|---|
+| Language | Python (Async) |
+| Focus | LLM Security / Reverse Proxy / Guardrails |
+
+🔗 **Live:** Not deployed &nbsp;•&nbsp; 💻 **Code:** [Repository](https://github.com/sreehari98989/FirebreakLLM)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark)
+
+**Frontend**
+
+![Skills](https://skillicons.dev/icons?i=html,css,react&theme=dark)
+
+**Backend / Infra**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,flutter,dart,spring&theme=dark)
+
+**AI / Database**
+
+![Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)
+
+**Dev Tools**
+
+![Skills](https://skillicons.dev/icons?i=vscode,git,github,androidstudio,postman,blender&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreehari98989&show_icons=true&theme=nord&title_color=dc143c&icon_color=dc143c&border_color=dc143c&text_color=c9cdd3" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehari98989&layout=compact&theme=nord&title_color=dc143c&border_color=dc143c&text_color=c9cdd3" width="41%"/>
+
+<img src="https://streak-stats.demolab.com/?user=sreehari98989&theme=nord&hide_border=false&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" width="65%"/>
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sreehari98989&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1" width="100%"/>
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreehari98989&theme=react-dark&color=dc143c&line=dc143c&point=dc143c&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DC143C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreehari--pk/)
+[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreehari98989@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreehari98989)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=150&section=footer" width="100%"/>
